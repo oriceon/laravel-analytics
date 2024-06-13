@@ -1,5 +1,5 @@
 {
-    "name": "gtmassey/laravel-analytics",
+    "name": "oriceon/laravel-analytics",
     "description": "Create and run Google Analytics Data API queries in Laravel",
     "license": "MIT",
     "authors": [
